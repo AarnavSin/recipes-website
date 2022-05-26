@@ -1,4 +1,4 @@
-# Odin Recipes
+# Recipes Website
  First project from The Odin Project.
 
 A simple website housing multiple food recipes.
