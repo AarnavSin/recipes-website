@@ -1,3 +1,5 @@
+
+
 h1 {
     font-family: 'Futura', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
@@ -25,14 +27,27 @@ p {
     font-weight: 400;
 }
 
+
 ul {
     text-align: center;
-    list-style-type: none;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
     font-family: 'Futura', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 li {
     text-align: center;
-    list-style-type: none;
+    list-style: none;
+    font-family: 'Futura', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+ol {
+    text-align: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
     font-family: 'Futura', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
